@@ -20,4 +20,9 @@ sass --watch --sourcemap sass/styles.scss:styles.css
 `
 If you are using Compass, note that Compass doesn’t yet support the pre-release version of Sass, so you can’t use Sass debugging with Compass.
 
+### Workspaces
+* http://www.youtube.com/watch?v=bqfoYaKCYUI#t=3m39s
+
+### Clean WorkSpace 
+* Incognito Window
 
