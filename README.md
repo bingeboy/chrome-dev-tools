@@ -10,4 +10,4 @@ Work In Progress Chrome Dev Tools Reference For Presentation
 * fps
 * reflow paint
 
-play it by year or ear.
+Cover how chrome://tracing/ works.
